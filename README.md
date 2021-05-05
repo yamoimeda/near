@@ -1,4 +1,4 @@
-## [README Prueba de desarrollo movil react native]
+## README Prueba de desarrollo movil react native
 
 ## Requerimientos
 
